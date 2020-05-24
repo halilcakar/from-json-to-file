@@ -1,0 +1,1 @@
+{"person":{"id":2,"first_name":"Halil","last_name":"Cakar","birth_day":"1992-09-02","gender":"M","married":false,"image":"https://via.placeholder.com/200x80.png?text=Halil","yearsService":12},"cars":[{"id":3,"license":"1-AAA-123","brand":"Opel","model":"Zafira","personId":2}]}
